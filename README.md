@@ -6,6 +6,7 @@ An interactive, real-time 4-way intersection traffic management and simulation s
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
+- [Demo Video](#-demo-video)
 - [Key Features](#-key-features)
 - [Operating Systems Concepts Implemented](#-operating-systems-concepts-implemented)
 - [Vehicle Hierarchy & Classes](#-vehicle-hierarchy--classes)
@@ -14,7 +15,7 @@ An interactive, real-time 4-way intersection traffic management and simulation s
 - [Prerequisites & Dependencies](#-prerequisites--dependencies)
 - [Setup & Build Instructions](#-setup--build-instructions)
 - [How to Use & Controls](#-how-to-use--controls)
-- [Screenshots & Visuals](#-screenshots--visuals)
+- [Contributors](#-contributors)
 
 ---
 
@@ -191,7 +192,15 @@ When the application starts, the **Traffic Simulation Menu** is displayed:
 
 ---
 
+## 🎥 Demo Video
+
+Watch the real-time simulation and multithreaded traffic control in action:
+
+▶️ **[Click here to Watch the Project Demo Video](https://drive.google.com/file/d/1h8D_bzM5n70SrQJYkOHj01dvNStrByiz/view?usp=drive_link)**
+
+---
+
 ## 👥 Contributors
 
-- **Semester 5 - Operating Systems Course Project**
+- **Operating Systems Course Project**
 - Developed by Daniyal and Project Team.
