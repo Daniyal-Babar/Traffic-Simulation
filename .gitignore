@@ -1,0 +1,74 @@
+# =========================================================================
+# Visual Studio & C++ Git Ignore
+# =========================================================================
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+
+# Visual Studio cache and workspace directories
+.vs/
+.vscode/
+
+# Build outputs & Intermediate folders
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+OS Project/Debug/
+OS Project/Release/
+OS Project/x64/
+OS Project/x86/
+
+# Compiled Object and Temporary Build files
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+*.res
+*.pch
+*.ipch
+*.exp
+*.lib
+*.iobj
+*.ipdb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Backup / Temporary files
+*.bak
+*.tmp
+*~
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Note on SFML & DLLs:
+# If you do not want to upload the 74MB SFML folder or runtime DLLs to GitHub,
+# uncomment the two lines below:
+# SFML/
+# *.dll
